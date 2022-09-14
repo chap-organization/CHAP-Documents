@@ -54,7 +54,7 @@ Once an issue is assigned someone, it is put in `To Do` and it becomes the task 
 ###### Explanation of State:
 The developer has started his task and is currently making it one of his priorities. Commits are being pushed to remote branch. 
 ###### Possible Transitions:
--> `Paused` The assignee has something blocking him from continuing the work and so has to pause it. 
+-> `Paused` The assignee has something blocking him from continuing the work and so has to pause it. <p></p>
 -> `Dev Verifier`The assignee is satisfied with his changes and therefore submits a PR for the `dev verifier` to look at. 
 #### 4. Paused
 ###### Explanation of State:
